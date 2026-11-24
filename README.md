@@ -67,11 +67,12 @@ plt.annotate(f"Highest Expense: {expenses[max_exp_index]}L",
              arrowprops=dict(facecolor='black', arrowstyle='->'))  
 plt.tight_layout()  
 plt.show()  
-```[cite: 1, 2]  
+
 
 ## Output
 
-<img width="655" height="402" alt="image" src="https://github.com/user-attachments/assets/3bccbaac-a15f-45e4-9f09-0efecd90e148" />
+<img width="953" height="581" alt="image" src="https://github.com/user-attachments/assets/074a546d-68f1-4172-a530-68a0027b8fca" />
+
 
 
 ## Result
